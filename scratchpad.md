@@ -9,3 +9,7 @@ Tiny backdated commits for contribution-graph experiment.
 - 2026-07-15: stealth
 - 2026-07-18: config path
 - 2026-07-20: release packaging
+
+## 2025-08 time-travel experiment
+
+- 2025-08-02: can pre-signup days light up?
