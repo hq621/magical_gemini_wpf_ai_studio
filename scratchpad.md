@@ -21,3 +21,4 @@ Tiny backdated commits for contribution-graph experiment.
 - 2025-08-22: mid-late august
 - 2025-08-25: almost end of month
 - 2025-08-28: last batch
+- 2025-08-31: month end check
