@@ -5,3 +5,4 @@ Tiny backdated commits for contribution-graph experiment.
 
 - 2026-07-03: hotkey notes
 - 2026-07-07: capture frame tip
+- 2026-07-11: click-through
