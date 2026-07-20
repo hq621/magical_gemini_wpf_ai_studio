@@ -8,3 +8,4 @@ Tiny backdated commits for contribution-graph experiment.
 - 2026-07-11: click-through
 - 2026-07-15: stealth
 - 2026-07-18: config path
+- 2026-07-20: release packaging
